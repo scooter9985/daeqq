@@ -1,0 +1,10 @@
+{
+    "wsshen": {
+        "code": "200",
+        "Success": true,
+        "shenbody": {
+            "uahUrl": "",
+            "goushie": "pay/paysubmit"
+        }
+    }
+}
